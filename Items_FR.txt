@@ -1,6 +1,6 @@
 Items_FR = {
 
-		DisplayName_Hand_Hatchet = "Hachette",
+		DisplayName_Hand_Hatchet = "Hachette à main",
 		DisplayName_Survival_Knife = "Couteau de survie",
 		DisplayName_Cheap_Survival_Knife = "Couteau de survie bon marché",
 		DisplayName_Rancher_Machete = "Machette Rancher",
@@ -9,4 +9,5 @@ Items_FR = {
 		DisplayName_Spear_With_Survival_Knife = "Lance avec couteau de survie",
 		DisplayName_Spear_With_Cheap_Survival_Knife = "Lance avec couteau de survie bon marché",
 
+		DisplayName_Spear_With_Kukri_Machete = "Lance avec machette Kukri",
 }
