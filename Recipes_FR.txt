@@ -1,0 +1,6 @@
+Recipes_FR = {
+
+		Recipe_Attach_Survival_Knife_to_Spear = "Attacher un couteau de survie à la lance",
+		Recipe_Attach_Cheap_Survival_Knife_to_Spear = "Attacher un couteau de survie bon marché à la lance",
+
+}
