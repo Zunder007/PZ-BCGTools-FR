@@ -1,6 +1,10 @@
 Recipes_FR = {
 
-		Recipe_Attach_Survival_Knife_to_Spear = "Attacher un couteau de survie à la lance",
-		Recipe_Attach_Cheap_Survival_Knife_to_Spear = "Attacher un couteau de survie bon marché à la lance",
+		Recipe_Attach_Survival_Knife_to_Spear = "Attacher le couteau de survie à la lance",
+		Recipe_Attach_Cheap_Survival_Knife_to_Spear = "Attacher le couteau de survie bon marché à la lance",
 
+		Recipe_Attach_Kukri_Machete_to_Spear = "Attacher la machette Kukri à la lance",
+		Recipe_Reclaim_Survival_Knife_from_Spear = "Retirer le couteau de survie de la lance",
+		Recipe_Reclaim_Cheap_Survival_Knife_from_Spear = "Retirer le couteau de survie bon marché de la lance",
+		Recipe_Reclaim_Kukri_Machete_from_Spear = "Retirer la machette Kukri de la lance",
 }
