@@ -1,0 +1,11 @@
+ItemName_FR = {
+	ItemName_BCGTools.CheapSurvivalKnife = "Couteau de survie bon marché",
+	ItemName_BCGTools.HandHatchet = "Hachette à main",
+	ItemName_BCGTools.KukriMachete = "Machette Kukri",
+	ItemName_BCGTools.RancherMachete = "Machette Rancher",
+	ItemName_BCGTools.SpearCheapSurvivalKnife = "Lance avec couteau de survie bon marché",
+	ItemName_BCGTools.SpearKukriMachete = "Lance avec machette Kukri",
+	ItemName_BCGTools.SpearSurvivalKnife = "Lance avec couteau de survie",
+	ItemName_BCGTools.SplittingAxe = "Hache à fendre",
+	ItemName_BCGTools.SurvivalKnife = "Couteau de survie",
+}
